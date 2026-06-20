@@ -42,4 +42,5 @@ terraform destroy
 ## Note
 
 The Terraform configuration was developed and validated locally.
+
 AWS resource provisioning was not performed because AWS account access was unavailable.
